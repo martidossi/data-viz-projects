@@ -1,5 +1,6 @@
 # data-viz-projects
 
+---
 
 🖊️ This repository contains the Python notebooks used to collect and prepare data for my data visualization projects. 
 Subfolders are named according to the corresponding work in my **Behance portfolio**: https://www.behance.net/martinadossi.
@@ -13,6 +14,8 @@ Subfolders are named according to the corresponding work in my **Behance portfol
 ▶ **To run the notebooks**, after having cloned the repository, install the required libraries from the root directory by running:
 
 `pip3 install -r requirements.txt`
+
+---
 
 📁 **Folder structure**:
 
