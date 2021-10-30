@@ -10,6 +10,7 @@ Subfolders are named according to the corresponding work in my **Behance portfol
 
 `pip3 install -r requirements.txt`
 
+
 📁 **Folder structure**:
 
 ```
