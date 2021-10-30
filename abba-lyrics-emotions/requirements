@@ -2,3 +2,9 @@ pandas
 numpy
 datetime
 lyricsgenius
+nltk
+re
+string
+collections
+gensim
+transformers
