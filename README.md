@@ -22,7 +22,7 @@ Subfolders are named according to the corresponding work in my **Behance portfol
 project
 │   README.md
 └───project
-│   │   requirements.txt  # required libraries
+│   │   requirements.txt  # required libraries to run the notebooks
 │   └───data              # all data used in the notebooks
 │   └───images            # some images imported in the notebooks
 │   └───notebooks         # data cleaning/preprocessing/analysis
