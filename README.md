@@ -1,4 +1,4 @@
-##data-viz-projects
+**data-viz-projects**
 ---
 
 🖊️ This repository contains the Python notebooks used to collect and prepare data for my data visualization projects. 
