@@ -17,8 +17,9 @@ Subfolders are named according to the corresponding work in my **Behance portfol
 project
 │   README.md
 └───project
-│   │   data
-│   │   images
-│   │   notebooks
-|   │   requirements.txt
+│   │   requirements.txt
+│   └───data # all data used in the notebooks
+│   └───images 
+│   └───notebooks # data cleaning/preprocessing/analysis
+
 ```
