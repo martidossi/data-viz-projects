@@ -1,5 +1,18 @@
 **data-viz-projects**
 ---
+📁 **Folder structure**:
+
+```
+project
+│   README.md
+└───project
+│   │   README.md
+│   │   requirements.txt  # required libraries to run the notebooks
+│   └───data              # all data used in the notebooks
+│   └───images            # some images imported in the notebooks
+│   └───notebooks         # data cleaning/preprocessing/analysis
+
+```
 
 🖊️ This repository contains the Python notebooks used to collect and prepare data for my data visualization projects. 
 Subfolders are named according to the corresponding work in my **Behance portfolio**: https://www.behance.net/martinadossi.
@@ -14,18 +27,4 @@ Subfolders are named according to the corresponding work in my **Behance portfol
 
 `pip3 install -r requirements.txt`
 
----
 
-📁 **Folder structure**:
-
-```
-project
-│   README.md
-└───project
-│   │   README.md
-│   │   requirements.txt  # required libraries to run the notebooks
-│   └───data              # all data used in the notebooks
-│   └───images            # some images imported in the notebooks
-│   └───notebooks         # data cleaning/preprocessing/analysis
-
-```
