@@ -14,7 +14,7 @@ project
 
 ```
 
-🖊️ This repository contains Python notebooks I worked on to collect and prepare data for data visualization projects. 
+🖊️ The repository contains Python notebooks I worked on to collect and prepare data for data visualization projects. 
 Subfolders are named according to the corresponding work in my **Behance portfolio**: https://www.behance.net/martinadossi.
 
 ---
