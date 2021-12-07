@@ -8,9 +8,9 @@ project
 └───project
 │   │   README.md
 │   │   requirements.txt  # required libraries to run the notebooks
-│   └───data              # all data used in the notebooks
+│   └───data              # datasets used in the notebooks
 │   └───images            # some images imported in the notebooks
-│   └───notebooks         # data cleaning/preprocessing/analysis
+│   └───notebooks         # jupyter notebooks: data cleaning/preprocessing/analysis
 
 ```
 
