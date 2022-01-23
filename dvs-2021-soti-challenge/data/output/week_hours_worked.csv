@@ -1,0 +1,82 @@
+role,persons_role,TimeWorked,count,persons_perc
+Analyst,557,20–29 hours,28,0.05026929982046679
+Analyst,557,30–39 hours,148,0.26570915619389585
+Analyst,557,40–49 hours,312,0.5601436265709157
+Analyst,557,50–59 hours,39,0.07001795332136446
+Analyst,557,60–69 hours,9,0.01615798922800718
+Analyst,557,70 or more hours,6,0.010771992818671455
+Analyst,557,Fewer than 20 hours,15,0.026929982046678635
+None of these describes my role,370,20–29 hours,20,0.05405405405405406
+None of these describes my role,370,30–39 hours,78,0.21081081081081082
+None of these describes my role,370,40–49 hours,168,0.4540540540540541
+None of these describes my role,370,50–59 hours,34,0.0918918918918919
+None of these describes my role,370,60–69 hours,14,0.03783783783783784
+None of these describes my role,370,70 or more hours,14,0.03783783783783784
+None of these describes my role,370,Fewer than 20 hours,39,0.10540540540540541
+None of these describes my role,370,None,3,0.008108108108108109
+"Leadership (Manager, Director, VP, etc.)",297,20–29 hours,9,0.030303030303030304
+"Leadership (Manager, Director, VP, etc.)",297,30–39 hours,47,0.15824915824915825
+"Leadership (Manager, Director, VP, etc.)",297,40–49 hours,161,0.5420875420875421
+"Leadership (Manager, Director, VP, etc.)",297,50–59 hours,53,0.17845117845117844
+"Leadership (Manager, Director, VP, etc.)",297,60–69 hours,12,0.04040404040404041
+"Leadership (Manager, Director, VP, etc.)",297,70 or more hours,7,0.02356902356902357
+"Leadership (Manager, Director, VP, etc.)",297,Fewer than 20 hours,6,0.020202020202020204
+"Leadership (Manager, Director, VP, etc.)",297,None,2,0.006734006734006734
+Designer,229,20–29 hours,19,0.08296943231441048
+Designer,229,30–39 hours,75,0.32751091703056767
+Designer,229,40–49 hours,98,0.4279475982532751
+Designer,229,50–59 hours,12,0.05240174672489083
+Designer,229,60–69 hours,5,0.021834061135371178
+Designer,229,70 or more hours,1,0.004366812227074236
+Designer,229,Fewer than 20 hours,19,0.08296943231441048
+Developer,180,20–29 hours,12,0.06666666666666667
+Developer,180,30–39 hours,58,0.32222222222222224
+Developer,180,40–49 hours,81,0.45
+Developer,180,50–59 hours,18,0.1
+Developer,180,60–69 hours,1,0.005555555555555556
+Developer,180,70 or more hours,4,0.022222222222222223
+Developer,180,Fewer than 20 hours,6,0.03333333333333333
+Scientist,122,20–29 hours,9,0.07377049180327869
+Scientist,122,30–39 hours,32,0.26229508196721313
+Scientist,122,40–49 hours,60,0.4918032786885246
+Scientist,122,50–59 hours,10,0.08196721311475409
+Scientist,122,60–69 hours,4,0.03278688524590164
+Scientist,122,70 or more hours,3,0.02459016393442623
+Scientist,122,Fewer than 20 hours,4,0.03278688524590164
+Academic/Teacher,114,20–29 hours,3,0.02631578947368421
+Academic/Teacher,114,30–39 hours,28,0.24561403508771928
+Academic/Teacher,114,40–49 hours,47,0.41228070175438597
+Academic/Teacher,114,50–59 hours,19,0.16666666666666666
+Academic/Teacher,114,60–69 hours,6,0.05263157894736842
+Academic/Teacher,114,70 or more hours,3,0.02631578947368421
+Academic/Teacher,114,Fewer than 20 hours,7,0.06140350877192982
+Academic/Teacher,114,None,1,0.008771929824561403
+Student,102,20–29 hours,15,0.14705882352941177
+Student,102,30–39 hours,24,0.23529411764705882
+Student,102,40–49 hours,24,0.23529411764705882
+Student,102,50–59 hours,7,0.06862745098039216
+Student,102,60–69 hours,3,0.029411764705882353
+Student,102,70 or more hours,1,0.00980392156862745
+Student,102,Fewer than 20 hours,27,0.2647058823529412
+Student,102,None,1,0.00980392156862745
+Engineer,98,20–29 hours,4,0.04081632653061224
+Engineer,98,30–39 hours,25,0.25510204081632654
+Engineer,98,40–49 hours,55,0.5612244897959183
+Engineer,98,50–59 hours,11,0.11224489795918367
+Engineer,98,Fewer than 20 hours,3,0.030612244897959183
+Journalist,64,20–29 hours,4,0.0625
+Journalist,64,30–39 hours,16,0.25
+Journalist,64,40–49 hours,33,0.515625
+Journalist,64,50–59 hours,5,0.078125
+Journalist,64,60–69 hours,2,0.03125
+Journalist,64,70 or more hours,2,0.03125
+Journalist,64,Fewer than 20 hours,2,0.03125
+Teacher,21,20–29 hours,1,0.047619047619047616
+Teacher,21,30–39 hours,7,0.3333333333333333
+Teacher,21,40–49 hours,7,0.3333333333333333
+Teacher,21,50–59 hours,3,0.14285714285714285
+Teacher,21,Fewer than 20 hours,3,0.14285714285714285
+Cartographer,11,30–39 hours,1,0.09090909090909091
+Cartographer,11,40–49 hours,7,0.6363636363636364
+Cartographer,11,50–59 hours,1,0.09090909090909091
+Cartographer,11,Fewer than 20 hours,2,0.18181818181818182
